@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  ChallengeProjectUnitTests.cpp
+     Creating library C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\x64\Debug\ChallengeProjectUnitTests.lib and object C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\x64\Debug\ChallengeProjectUnitTests.exp
+ChallengeProjectUnitTests.obj : error LNK2019: unresolved external symbol "public: int __cdecl MyClass::getValue(void)const " (?getValue@MyClass@@QEBAHXZ) referenced in function "public: void __cdecl ChallengeProjectUnitTests::ChallengeProjectUnitTests::UsingMyClassFunction(void)" (?UsingMyClassFunction@ChallengeProjectUnitTests@1@QEAAXXZ)
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\x64\Debug\ChallengeProjectUnitTests.dll : fatal error LNK1120: 1 unresolved externals

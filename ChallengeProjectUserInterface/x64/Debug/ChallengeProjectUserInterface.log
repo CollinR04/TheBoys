@@ -1,0 +1,38 @@
+﻿  Main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\ranges(12): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProjectUserInterface\Main.cpp(59,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProjectUserInterface\Main.cpp(69,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProjectUserInterface\Main.cpp(90,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProjectUserInterface\Main.cpp(98,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProjectUserInterface\Main.cpp(102,28): error C2039: 'compareScore': is not a member of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.h(10,7): message : see declaration of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProjectUserInterface\Main.cpp(103,28): error C2039: 'printResults': is not a member of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.h(10,7): message : see declaration of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProjectUserInterface\Main.cpp(104,28): error C2039: 'printFinalCompare': is not a member of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.h(10,7): message : see declaration of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProjectUserInterface\Main.cpp(105,28): error C2039: 'printTotal': is not a member of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.h(10,7): message : see declaration of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProjectUserInterface\Main.cpp(124,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProjectUserInterface\Main.cpp(134,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProjectUserInterface\Main.cpp(155,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProjectUserInterface\Main.cpp(163,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProjectUserInterface\Main.cpp(167,28): error C2039: 'compareScore': is not a member of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.h(10,7): message : see declaration of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProjectUserInterface\Main.cpp(168,28): error C2039: 'printResults': is not a member of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.h(10,7): message : see declaration of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProjectUserInterface\Main.cpp(169,28): error C2039: 'printFinalCompare': is not a member of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.h(10,7): message : see declaration of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProjectUserInterface\Main.cpp(170,28): error C2039: 'printTotal': is not a member of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.h(10,7): message : see declaration of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProjectUserInterface\Main.cpp(188,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProjectUserInterface\Main.cpp(198,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProjectUserInterface\Main.cpp(219,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProjectUserInterface\Main.cpp(227,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProjectUserInterface\Main.cpp(231,28): error C2039: 'compareScore': is not a member of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.h(10,7): message : see declaration of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProjectUserInterface\Main.cpp(232,28): error C2039: 'printResults': is not a member of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.h(10,7): message : see declaration of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProjectUserInterface\Main.cpp(233,28): error C2039: 'printFinalCompare': is not a member of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.h(10,7): message : see declaration of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProjectUserInterface\Main.cpp(234,28): error C2039: 'printTotal': is not a member of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.h(10,7): message : see declaration of 'Results'

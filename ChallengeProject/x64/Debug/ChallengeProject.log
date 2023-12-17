@@ -1,0 +1,36 @@
+﻿  Game.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\ranges(12): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+  GroupGame.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\ranges(12): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Game.h(9,22): error C2504: 'GroupGame': base class undefined
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\GroupGame.cpp(28,20): error C2679: binary '=': no operator found which takes a right-hand operand of type 'initializer list' (or there is no acceptable conversion)
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\GroupGame.h(21,1): message : could be 'GroupGame &GroupGame::operator =(const GroupGame &)'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\GroupGame.cpp(28,20): message : while trying to match the argument list '(GroupGame, initializer list)'
+  Results.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\ranges(12): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.cpp(5,2): error C2065: 'courseResults': undeclared identifier
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.cpp(10,10): error C2065: 'courseResults': undeclared identifier
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.cpp(10,2): error C2541: 'delete': cannot delete objects that are not pointers
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.cpp(13,15): error C2039: 'getResultArr': is not a member of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.h(10,7): message : see declaration of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.cpp(13,15): error C2270: 'getResultArr': modifiers not allowed on nonmember functions
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.cpp(15,9): error C2065: 'courseResults': undeclared identifier
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.cpp(18,15): error C2039: 'compareScore': is not a member of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.h(10,7): message : see declaration of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.cpp(20,3): error C2065: 'courseResults': undeclared identifier
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.cpp(24,15): error C2039: 'printResults': is not a member of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.h(10,7): message : see declaration of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.cpp(24,15): error C2270: 'printResults': modifiers not allowed on nonmember functions
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.cpp(27,11): error C2065: 'courseResults': undeclared identifier
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.cpp(31,15): error C2039: 'printFinalCompare': is not a member of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.h(10,7): message : see declaration of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.cpp(31,15): error C2270: 'printFinalCompare': modifiers not allowed on nonmember functions
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.cpp(41,11): error C2065: 'courseResults': undeclared identifier
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.cpp(45,15): error C2039: 'printTotal': is not a member of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.h(10,7): message : see declaration of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.cpp(60,18): error C2065: 'courseResults': undeclared identifier
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.cpp(72,15): error C2039: 'addToMap': is not a member of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.h(10,7): message : see declaration of 'Results'
+C:\Users\RollieCollin\GetHubProjects\cs244-f23-tetzlaff-challenge-project-2-rollie-driver-cp-2\ChallengeProject\Results.cpp(74,2): error C2065: 'recent': undeclared identifier
+  Scores.cpp
+  Generating Code...
